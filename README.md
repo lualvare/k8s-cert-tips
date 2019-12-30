@@ -32,7 +32,7 @@ autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab
 - Learn the commands to quickly generate yamls with dry run option:
 [kubectl generators](https://kubernetes.io/docs/reference/kubectl/conventions/#generators)
 
-- Time management is key, if you feel a question is not all that clear to you move a long to the next. 
+- Time management is key, if you feel a question is not all that clear to you move along to the next. 
 
 - Here is some extra exercises to practice (contents are from CKAD but it’s also useful for CKA)
 [Task samples](https://github.com/dgkanatsios/CKAD-exercises#contents)
