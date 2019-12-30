@@ -1,11 +1,11 @@
 # k8s-cert-tips
-Tips and tricks for your cka and ckad exam.
+Tips and tricks for your CKA and CKAD exams.
 
 The CKA and CKAD exams can be a pretty difficult challenge if you do not have enough practice with kubectl and Kubernetes yamls files. Generally speaking all questions can be simply and quickly resolved if you know where to look and how to use the resources.
-And a key part on knowing where to look and how to use/modify the resources comes with practice (a lot of practice!).
+And a key part of knowing where to look and how to use/modify the resources comes with practice (a lot of practice!).
 
-If you spend quality time with kubectl and with k8s yamls, it will show of on your speed and accuracy.
-A good way to get this quality time is to have you own k8s cluster, ideally one with multiple nodes and installed by you using kubeadm or similar deployment tools.
+If you spend quality time with kubectl and with k8s yamls, it will show on your speed and accuracy.
+A good way to get this quality time is to have your own k8s cluster, ideally one with multiple nodes and installed by you using kubeadm or similar deployment tools.
 
 If you have some spare hardware resources here is some tools you can use to set up a k8s sandbox with vms on your linux box:
 [kvm build with cloud images](https://github.com/sturrent/kvm-build-with-cloud-image)
