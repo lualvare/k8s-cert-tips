@@ -11,8 +11,7 @@ syntax on
 colorscheme zellner
 autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab
 ```
-  I had to memorized this one and set it on the exam. 
-  Be careful with exam terminal copy and paste shortcuts (Ctrl + Insert = copy Ctrl + Shift = paste)
+  > I had to memorized this one and set it on the exam. Be careful with exam terminal copy and paste shortcuts (Ctrl + Insert = copy Ctrl + Shift = paste)
 
 - Get familiar with the k8s docs layout and search tool (task and tutorials sections are real handy to copy, paste and modify yamls)
 [kubernetes docs taks] (https://kubernetes.io/docs/tasks/)
